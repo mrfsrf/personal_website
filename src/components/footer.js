@@ -31,7 +31,7 @@ const Footer = () => (
             >
          © {new Date().getFullYear()} Luka Juras,
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.luka-juras.com">Luka Juras</a>
           </div>
       </div>
     </footer>
